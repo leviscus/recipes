@@ -1,5 +1,4 @@
-# Wheatflour @ EUR 3.00
-# Rice @ EUR 2.50
-# Sugar @ EUR 1.50
-# Apples @ EUR 0.70
-# Yogurt @ EUR 0.39
+# Market A
+* avocado: 1.35 per unit
+* lime: 0.64 per unit
+* salt: 2 per kg
