@@ -4,4 +4,4 @@
 * lime: (0.64)
 * salt: (2)
 ## Instructions
-An ill-considered change
+* Carefully cut the avocado into two halves and use a chopping board!
