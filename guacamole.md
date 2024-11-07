@@ -4,4 +4,4 @@
 * lime: (0.64)
 * salt: (2)
 ## Instructions
-* Slice the avocado into two halves and remove the pit.
+An ill-considered change
